@@ -12,22 +12,28 @@ Before you begin, ensure you have met the following requirements:
 
 To install and run, follow these steps:
 
-1. **Clone the Repository**  
+1. **Clone the Repository**
+    
    git clone https://github.com/ChitcChat-AI/Researcher-Platform.git
 
 2. **Navigate to the Project Directory**
+   
     cd Researcher-Platform
 
 3. **Install Dependencies**
+   
      npm install
 
 4. **Set Up Environment Variables**
+   
     create a .env file in the root directory and add the necessary variables
 
-6. **Run the Application**
+5. **Run the Application**
+    
     npm start
 
-7. **Access the Application**
+6. **Access the Application**
+    
      Open your web browser and go to http://localhost:8000 to access the application. 
 
 
