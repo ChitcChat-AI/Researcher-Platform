@@ -1,6 +1,36 @@
 # About
 ChitChat is a software platform developed as a college final project for conducting research experiments across various subjects within a custom-built chat application. The platform is designed using React and integrates pre-defined AI agents (OpenAI) into chat discussions to facilitate advanced interactions and data collection.
 
+# Installation
+
+### Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+- npm
+
+### Steps
+
+To install and run, follow these steps:
+
+1. **Clone the Repository**  
+   git clone https://github.com/ChitcChat-AI/Researcher-Platform.git
+
+2. **Navigate to the Project Directory**
+    cd Researcher-Platform
+
+3. **Install Dependencies**
+     npm install
+
+4. **Set Up Environment Variables**
+    create a .env file in the root directory and add the necessary variables
+
+6. **Run the Application**
+    npm start
+
+7. **Access the Application**
+     Open your web browser and go to http://localhost:8000 to access the application. 
+
+
 # Features
 ### Custom Chat Application
 
