@@ -1,4 +1,4 @@
-# Overview
+# About
 ChitChat is a software platform developed as a college final project for conducting research experiments across various subjects within a custom-built chat application. The platform is designed using React and integrates pre-defined AI agents (OpenAI) into chat discussions to facilitate advanced interactions and data collection.
 
 # Features
